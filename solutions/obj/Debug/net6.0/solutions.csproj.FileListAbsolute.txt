@@ -1,0 +1,14 @@
+D:\sistemas-backup\solutions\solutions\bin\Debug\net6.0\solutions.exe
+D:\sistemas-backup\solutions\solutions\bin\Debug\net6.0\solutions.deps.json
+D:\sistemas-backup\solutions\solutions\bin\Debug\net6.0\solutions.runtimeconfig.json
+D:\sistemas-backup\solutions\solutions\bin\Debug\net6.0\solutions.dll
+D:\sistemas-backup\solutions\solutions\bin\Debug\net6.0\solutions.pdb
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.GeneratedMSBuildEditorConfig.editorconfig
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.AssemblyInfoInputs.cache
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.AssemblyInfo.cs
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.csproj.CoreCompileInputs.cache
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.dll
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\refint\solutions.dll
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.pdb
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.genruntimeconfig.cache
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\ref\solutions.dll
