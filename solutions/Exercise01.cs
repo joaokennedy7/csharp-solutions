@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace solutions
 {
-    public class exercise01
+    public class Exercise01
     {
 
-        public void Exercicio01()
+        public void Exercise1()
         {
             /*Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.
               Altere o programa anterior para mostrar no final a soma dos números.*/
