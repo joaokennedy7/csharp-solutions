@@ -13,6 +13,9 @@ class Program
         /*Exercise02 exercise02 = new Exercise02();
         exercise02.Exercise2();*/
 
+       /*Exercise03 exercise03 = new Exercise03();
+        exercise03.Exercise3();*/
+
 
     }
 }

@@ -18,7 +18,7 @@ namespace solutions
                5 X 2 = 10
                5 X 10 = 50 */
 
-            Console.WriteLine("-Tabuada");
+            Console.WriteLine("Tabuada");
             Console.WriteLine("Digite um número entre 1 a 10:");
             var gerador = Convert.ToInt32(Console.ReadLine());
 
