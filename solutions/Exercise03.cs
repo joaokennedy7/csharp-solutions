@@ -14,23 +14,22 @@ namespace solutions
 
             /*Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilize a função de potência da linguagem.*/
 
+            Console.Write("Digite o valor base: ");
+            var valorBase = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Digite o valor base:");
-            int valorBase = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Digite o valor do expoente: ");
+            var valorExpoente = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Digite a expoente:");
-            int expoente = Convert.ToInt32(Console.ReadLine());
+            int resultado = Expoente(valorBase, valorExpoente);
 
-            int resultadoPotencia = Potencia(valorBase, expoente);
-
-            Console.WriteLine($"{valorBase} elevado a {expoente} é {resultadoPotencia}");
+            Console.WriteLine($"O valor do base {valorBase} e {valorExpoente} tem o resultado {resultado}");
         }
 
-        static int Potencia(int valorBase, int expoente)
+        public int Expoente(int valorBase, int valorExpoente)
         {
-            int resultado = 1;
+            var resultado = 1;
 
-            for (int i = 1; i <= expoente; i++)
+            for(int i = 1; i <= valorExpoente;  i++)
             {
                 resultado *= valorBase;
             }

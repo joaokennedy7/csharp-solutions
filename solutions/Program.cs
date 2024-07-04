@@ -16,6 +16,7 @@ class Program
        /*Exercise03 exercise03 = new Exercise03();
         exercise03.Exercise3();*/
 
-
+       Exercise04 exercise04 = new Exercise04();
+        exercise04.Exercise4();
     }
 }
