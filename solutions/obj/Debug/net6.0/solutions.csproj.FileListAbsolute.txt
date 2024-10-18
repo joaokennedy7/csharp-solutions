@@ -12,3 +12,4 @@ D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\refint\solutions.dll
 D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.pdb
 D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.genruntimeconfig.cache
 D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\ref\solutions.dll
+D:\sistemas-backup\solutions\solutions\obj\Debug\net6.0\solutions.sourcelink.json
